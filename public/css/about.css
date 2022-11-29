@@ -317,7 +317,7 @@ h4{
         
     }
     .hero{
-        width: 310px;
+        width: auto;
         height: 50vh;
         margin-bottom: 500px;
         
@@ -397,7 +397,7 @@ h4{
     .main{
         margin-top: -330px;
         margin-left: 10px;
-        width: 300px;
+        width: auto;
         
     }
     .about-text{
@@ -413,10 +413,10 @@ h4{
     }
     .about{
         margin-top: -500px;
-        width: 310px;
+        width: auto;
     }
     .uu{
-        width: 300px;
+        width: auto;
         
     }
     .uu h5{
@@ -428,7 +428,7 @@ h4{
         width: 280px;
     }
    footer{
-    width: 310px;
+    width: auto;
    }
 
     

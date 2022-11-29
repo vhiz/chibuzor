@@ -395,7 +395,7 @@ h4{
         
     }
     .hero{
-        width: 310px;
+        width: auto;
         height: 50vh;
         
     }
@@ -466,7 +466,7 @@ h4{
         margin-left: 20px;
     }
     .contact{
-        width: 310px;
+        width: auto;
     }
     .kk{
         display: block;
@@ -514,7 +514,7 @@ h4{
         width: 290px;
     }
     .uu{
-        width: 300px;
+        width: auto;
         
     }
     .uu h5{
@@ -526,6 +526,6 @@ h4{
         width: 280px;
     }
     footer{
-        width: 310px;
+        width: auto;
     }
 }

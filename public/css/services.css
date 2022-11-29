@@ -312,12 +312,12 @@ footer p:nth-child(2){
         
     }
     .hero{
-        width: 310px;
+        width: auto;
         height: 50vh;
         margin-bottom: -80px;
     }
     .bg{
-        width: 300px;
+        width: auto;
         height: 50vh;
        
     }
@@ -376,7 +376,7 @@ footer p:nth-child(2){
             
     }
     .uu{
-        width: 300px;
+        width: auto;
         
     }
     .uu h5{
@@ -386,7 +386,7 @@ footer p:nth-child(2){
         text-align: justify;
     }
     .end{
-        width: 300px;
+        width: auto;
         padding-left: 15px;
     }
     .box{
@@ -414,7 +414,7 @@ footer p:nth-child(2){
         margin-top: 100px;
     }
     .uu{
-        width: 300px;
+        width: auto;
         
     }
     .uu h5{
