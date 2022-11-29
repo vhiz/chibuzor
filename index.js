@@ -63,7 +63,7 @@ app.post('/email', (req, res)=>{
             from: `${email} sent you a message`,
             to: 'ofoegbuchibuzor5@gmail.com',
             subject:`message from ${name}`,
-            html:`<p><b>${subject}</p><p> my number: ${number}</b></p> `
+            html:`<p><b>${subject}</p><p> my number: ${number}</b> <p><b> my email : ${email}</b> </p></p> `
         }
 
         transporter.sendMail(mailoptions, (error, message)=>{

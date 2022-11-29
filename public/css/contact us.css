@@ -455,6 +455,9 @@ h4{
         padding: 10px;
             
     }
+    .content{
+        width: auto;
+    }
     .content h4,h2{
         font-size: 0px;
     }
